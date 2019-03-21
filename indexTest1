@@ -1,0 +1,124 @@
+<!doctype html>
+<html>
+
+<head>
+<!-- Google Analytics Content Experiment code -->
+<script>function utmx_section(){}function utmx(){}(function(){var
+k='191049754-0',d=document,l=d.location,c=d.cookie;
+if(l.search.indexOf('utm_expid='+k)>0)return;
+function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
+indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
+length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
+'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
+'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
+valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
+</script><script>utmx('url','A/B');</script>
+<!-- End of Google Analytics Content Experiment code -->
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133582852-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-133582852-2');
+  </script>
+
+  <meta charset="utf-8">
+  <meta name="description"
+    content="S&S Computer Solution - The best choice to buy computer hardware and build your own custom PC build | Website used for tracking educational purpose">
+  <meta name="keywords" content="s&s, s & s, computer, solution, repair, custom, build, pc, personal, hardware, cpu, motherboard, ram, graphic, card, storage, hdd, ssd, 
+    S, amd, msi, processor, it, information, technology, Kuala Lumpur, Bandar Sri Damansara, part, system, tower">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Choong Soon Nien">
+  <meta name="language" content="English">
+  <meta name="revisit-after" content="1 days">
+
+  <title>S&S Computer Solution</title>
+
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+  </style>
+
+  <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+  <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+  <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="css/product.css" rel="stylesheet">
+</head>
+
+<body>
+  <nav class="site-header sticky-top py-1">
+    <div class="container d-flex flex-column flex-md-row justify-content-between">
+      <a class="py-2" href="index.html">
+        <img src="img/Logo.png" width="30" height="auto" id="logo" class="d-block mx-auto" focusable="false" />
+      </a>
+      <a class="py-2 d-none d-md-inline-block header-text" href="index.html">Home</a>
+      <a class="py-2 d-none d-md-inline-block header-text" href="product.html">Product</a>
+      <a class="py-2 d-none d-md-inline-block header-text" href="about us.html">About Us</a>
+      <a class="py-2 d-none d-md-inline-block header-text" href="contact us.html">Contact Us</a>
+    </div>
+  </nav>
+
+  <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light" id="home-image" style:"background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5));">
+    <div class="col-md-8 p-lg-5 mx-auto my-5" id="HomeText">
+      <h1 class="display-4 font-weight-normal"><img src="img/Logo.png" width="45px" style="margin-bottom: 12px;"> S&S
+        COMPUTER SOLUTION</h1>
+      <h2 class="display-5 font-weight-normal pb-3">The best choice for your computer hardware</h2>
+      <p class="lead font-weight-normal mb-4" id="HomeInfo">In S&S Computer Solution, we offer a wide range of IT products
+        such as computer hardware, genuine software, printer, monitor, networking, accessories from various brands in IT
+        industry such as Intel, AMD, Microsoft, MSI, GIGABYTE, Kingston, Crucial, Samsung, Seagate, and etc. We also
+        provide services such as repairing, formatting, maintenance, custom PC building by customer requirements, and
+        others.
+      </p>
+      <a class="btn btn-outline-secondary homebtn" href="product.html" style="margin-bottom: 10px;">View our products</a><br>
+    </div>
+  </div>
+
+  <footer class="container py-5">
+    <div class="row">
+      <div class="col-12 col-md">
+        <img src="img/Logo.png" width="30" height="auto" class="d-block mb-2" focusable="false" />
+        <small class="d-block mb-3 text-muted">&copy; 2018-2019</small>
+      </div>
+      <div class="col-6 col-md">
+        <h5>Resources</h5>
+        <ul class="list-unstyled text-small">
+          <li><a class="text-muted" href="product.html">Product</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-md">
+        <h5>About</h5>
+        <ul class="list-unstyled text-small">
+          <li><a class="text-muted" href="about us.html">About Us</a></li>
+          <li><a class="text-muted" href="contact us.html">Contact</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-md">
+        <h5>Collaboration</h5>
+        <ul class="list-unstyled text-small">
+          <li><a class="text-muted" href="https://lian1997.github.io/">BookShoP4U</a></li>
+          <li><a class="text-muted" href="https://cheehern.github.io/">Gaming Stuff E Web</a></li>
+          <li><a class="text-muted" href="https://kung96.github.io">GENETIC WATCH</a></li>
+          <li><a class="text-muted" href="https://ypcyapcienchen.github.io">Fuvis Ocular</a></li>
+          <li><a class="text-muted" href="https://vincent4146.github.io/vincent1025/">Magnificent Food</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+</html>
